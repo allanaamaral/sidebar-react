@@ -2,14 +2,6 @@
 
 This repository contains code for Sidebar in ReactJS.
 
-View Demo:
-https://react-sidebar.vercel.app/
-
-If you want to learn how to create it please follow below tutorial: <br />
-Change your Branch to starter-code To get started!
-
-https://youtu.be/6HfMm9D4jpU
-
 ### Images of Website:
 ![Codebucks](https://github.com/codebucks27/react-sidebar/blob/main/React-Sidebar-3.png)
 ![Codebucks](https://github.com/codebucks27/react-sidebar/blob/main/React-Sidebar-1.png)
